@@ -35,4 +35,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Next.js 13 Full Course 2023 | Build and Deploy a Full Stack App Using the Official React Framework
 
+YouTube | https://www.youtube.com/watch?v=wm5gMKuwSYk
+
 > > > > > > > 014f85e4910377381513e40e1f39722efd506f12
